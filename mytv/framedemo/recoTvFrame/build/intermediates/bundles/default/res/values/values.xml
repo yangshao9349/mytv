@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="animationType">
+        <enum name="DEFAULT" value="0"/>
+        <enum name="TRANSLATE" value="1"/>
+    </attr>
+    <attr format="color" name="backgroundColor"/>
+    <attr format="dimension" name="boarder"/>
+    <attr format="dimension" name="boarderBottom"/>
+    <attr format="integer" name="boarderBottomInt"/>
+    <attr format="integer" name="boarderInt"/>
+    <attr format="dimension" name="boarderLeft"/>
+    <attr format="integer" name="boarderLeftInt"/>
+    <attr format="dimension" name="boarderRight"/>
+    <attr format="integer" name="boarderRightInt"/>
+    <attr format="dimension" name="boarderTop"/>
+    <attr format="integer" name="boarderTopInt"/>
+    <attr format="boolean" name="clockwise"/>
+    <attr format="integer" name="columns"/>
+    <attr format="dimension" name="cursorHeight"/>
+    <attr format="dimension" name="cursorMarginBottom"/>
+    <attr format="dimension" name="cursorMarginLeft"/>
+    <attr format="dimension" name="cursorMarginRight"/>
+    <attr format="dimension" name="cursorMarginTop"/>
+    <attr format="reference" name="cursorRes"/>
+    <attr format="reference" name="cursorRes_1280"/>
+    <attr format="reference" name="cursorRes_1920"/>
+    <attr format="reference" name="cursorRes_2560"/>
+    <attr format="reference" name="cursorRes_3840"/>
+    <attr format="dimension" name="cursorWidth"/>
+    <attr format="integer" name="delay"/>
+    <attr format="dimension" name="dividerHeight"/>
+    <attr format="integer" name="durationLarge"/>
+    <attr format="integer" name="durationScroll"/>
+    <attr format="integer" name="durationSmall"/>
+    <attr format="integer" name="durationTranslate"/>
+    <attr name="focusOption">
+        <enum name="PARENT_ONLY" value="0"/>
+        <enum name="CHILD_ONLY" value="1"/>
+    </attr>
+    <attr format="boolean" name="focusable"/>
+    <attr format="reference" name="imageRes"/>
+    <attr format="boolean" name="initFocus"/>
+    <attr format="dimension" name="itemHeight"/>
+    <attr format="dimension" name="itemWidth"/>
+    <attr format="integer" name="max"/>
+    <attr format="dimension" name="paddingLeft"/>
+    <attr format="dimension" name="paddingTop"/>
+    <attr format="dimension" name="pageWidth"/>
+    <attr format="integer" name="period"/>
+    <attr format="color" name="progressEndColor"/>
+    <attr format="color" name="progressStartColor"/>
+    <attr format="dimension" name="rectRadius"/>
+    <attr format="dimension" name="roundWidth"/>
+    <attr format="integer" name="rows"/>
+    <attr format="boolean" name="scalable"/>
+    <attr format="float" name="scale"/>
+    <attr format="integer" name="scrollDelay"/>
+    <attr format="integer" name="scrollDuration"/>
+    <attr format="dimension" name="spaceHori"/>
+    <attr format="dimension" name="spaceVert"/>
+    <attr name="style">
+        <enum name="RING" value="0"/>
+        <enum name="FAN" value="1"/>
+        <enum name="RECT" value="2"/>
+    </attr>
+    <attr format="string|reference" name="text"/>
+    <attr format="color" name="textColor"/>
+    <attr format="color" name="textColorDefault"/>
+    <attr format="color" name="textColorSelected"/>
+    <attr format="boolean" name="textDisplayable"/>
+    <attr format="dimension" name="textSize"/>
+    <attr name="textStyle">
+        <enum name="DEFAULT" value="0"/>
+        <enum name="LTH" value="1"/>
+    </attr>
+    <attr format="dimension" name="titleHeight"/>
+    <attr format="dimension" name="titleSpace"/>
+    <attr format="dimension" name="titleWidth"/>
+    <attr format="boolean" name="vague"/>
+    <declare-styleable name="TvButton"><attr name="cursorRes"/><attr name="cursorRes_1280"/><attr name="cursorRes_1920"/><attr name="cursorRes_2560"/><attr name="cursorRes_3840"/><attr name="scalable"/><attr name="scale"/><attr name="animationType"/><attr name="durationLarge"/><attr name="durationSmall"/><attr name="delay"/><attr name="boarder"/><attr name="boarderTop"/><attr name="boarderLeft"/><attr name="boarderBottom"/><attr name="boarderRight"/><attr name="boarderInt"/><attr name="boarderTopInt"/><attr name="boarderLeftInt"/><attr name="boarderBottomInt"/><attr name="boarderRightInt"/></declare-styleable>
+    <declare-styleable name="TvGridView"><attr name="cursorRes"/><attr name="cursorRes_1280"/><attr name="cursorRes_1920"/><attr name="cursorRes_2560"/><attr name="cursorRes_3840"/><attr name="scalable"/><attr name="scale"/><attr name="animationType"/><attr name="durationLarge"/><attr name="durationSmall"/><attr name="durationTranslate"/><attr name="delay"/><attr name="scrollDelay"/><attr name="scrollDuration"/><attr name="boarder"/><attr name="boarderTop"/><attr name="boarderLeft"/><attr name="boarderBottom"/><attr name="boarderRight"/><attr name="boarderInt"/><attr name="boarderTopInt"/><attr name="boarderLeftInt"/><attr name="boarderBottomInt"/><attr name="boarderRightInt"/><attr name="columns"/><attr name="spaceHori"/><attr name="spaceVert"/><attr name="itemWidth"/><attr name="itemHeight"/><attr name="paddingLeft"/><attr name="paddingTop"/><attr name="initFocus"/></declare-styleable>
+    <declare-styleable name="TvHorizontalGridView"><attr name="cursorRes"/><attr name="cursorRes_1280"/><attr name="cursorRes_1920"/><attr name="cursorRes_2560"/><attr name="cursorRes_3840"/><attr name="scalable"/><attr name="scale"/><attr name="animationType"/><attr name="durationLarge"/><attr name="durationSmall"/><attr name="durationTranslate"/><attr name="delay"/><attr name="scrollDelay"/><attr name="scrollDuration"/><attr name="boarder"/><attr name="boarderTop"/><attr name="boarderLeft"/><attr name="boarderBottom"/><attr name="boarderRight"/><attr name="boarderInt"/><attr name="boarderTopInt"/><attr name="boarderLeftInt"/><attr name="boarderBottomInt"/><attr name="boarderRightInt"/><attr name="rows"/><attr name="spaceHori"/><attr name="spaceVert"/><attr name="itemWidth"/><attr name="itemHeight"/><attr name="paddingLeft"/><attr name="paddingTop"/><attr name="initFocus"/></declare-styleable>
+    <declare-styleable name="TvListView"><attr name="cursorRes"/><attr name="cursorRes_1280"/><attr name="cursorRes_1920"/><attr name="cursorRes_2560"/><attr name="cursorRes_3840"/><attr name="scalable"/><attr name="focusOption"/><attr name="scale"/><attr name="animationType"/><attr name="durationLarge"/><attr name="durationSmall"/><attr name="delay"/><attr name="scrollDelay"/><attr name="scrollDuration"/><attr name="boarder"/><attr name="boarderTop"/><attr name="boarderLeft"/><attr name="boarderBottom"/><attr name="boarderRight"/><attr name="boarderInt"/><attr name="boarderTopInt"/><attr name="boarderLeftInt"/><attr name="boarderBottomInt"/><attr name="boarderRightInt"/><attr name="spaceVert"/><attr name="itemWidth"/><attr name="itemHeight"/><attr name="paddingLeft"/><attr name="paddingTop"/><attr name="initFocus"/></declare-styleable>
+    <declare-styleable name="TvLoadingBar"><attr name="imageRes"/><attr name="period"/><attr name="delay"/><attr name="clockwise"/><attr name="textColor"/><attr name="textSize"/><attr name="textDisplayable"/></declare-styleable>
+    <declare-styleable name="TvMarqueeText"><attr name="text"/><attr name="period"/><attr name="vague"/><attr name="textStyle"/></declare-styleable>
+    <declare-styleable name="TvProgressBar"><attr name="backgroundColor"/><attr name="progressStartColor"/><attr name="progressEndColor"/><attr name="roundWidth"/><attr name="rectRadius"/><attr name="textColor"/><attr name="textSize"/><attr name="max"/><attr name="textDisplayable"/><attr name="style"/></declare-styleable>
+    <declare-styleable name="TvRelativeLayout"><attr name="cursorRes"/><attr name="scalable"/><attr name="scale"/><attr name="animationType"/><attr name="durationLarge"/><attr name="durationSmall"/><attr name="delay"/><attr name="boarder"/><attr name="boarderTop"/><attr name="boarderLeft"/><attr name="boarderBottom"/><attr name="boarderRight"/><attr name="boarderInt"/><attr name="boarderTopInt"/><attr name="boarderLeftInt"/><attr name="boarderBottomInt"/><attr name="boarderRightInt"/></declare-styleable>
+    <declare-styleable name="TvRelativeLayoutAsGroup"><attr name="cursorRes"/><attr name="cursorRes_1280"/><attr name="cursorRes_1920"/><attr name="cursorRes_2560"/><attr name="cursorRes_3840"/><attr name="scalable"/><attr name="scale"/><attr name="animationType"/><attr name="durationLarge"/><attr name="durationSmall"/><attr name="durationTranslate"/><attr name="delay"/><attr name="boarder"/><attr name="boarderTop"/><attr name="boarderLeft"/><attr name="boarderBottom"/><attr name="boarderRight"/><attr name="boarderInt"/><attr name="boarderTopInt"/><attr name="boarderLeftInt"/><attr name="boarderBottomInt"/><attr name="boarderRightInt"/><attr name="itemWidth"/><attr name="itemHeight"/><attr name="paddingLeft"/><attr name="paddingTop"/><attr name="initFocus"/></declare-styleable>
+    <declare-styleable name="TvSubButton"><attr name="cursorRes"/><attr name="cursorRes_1280"/><attr name="cursorRes_1920"/><attr name="cursorRes_2560"/><attr name="cursorRes_3840"/><attr name="scalable"/><attr name="scale"/><attr name="animationType"/><attr name="durationLarge"/><attr name="durationSmall"/><attr name="delay"/><attr name="boarder"/><attr name="boarderTop"/><attr name="boarderLeft"/><attr name="boarderBottom"/><attr name="boarderRight"/><attr name="boarderInt"/><attr name="boarderTopInt"/><attr name="boarderLeftInt"/><attr name="boarderBottomInt"/><attr name="boarderRightInt"/></declare-styleable>
+    <declare-styleable name="TvTabHost"><attr name="cursorRes"/><attr name="textColorDefault"/><attr name="textColorSelected"/><attr name="titleWidth"/><attr name="titleHeight"/><attr name="titleSpace"/><attr name="textSize"/><attr name="dividerHeight"/><attr name="durationScroll"/><attr name="scalable"/><attr name="scale"/><attr name="animationType"/><attr name="durationLarge"/><attr name="durationSmall"/><attr name="delay"/><attr name="cursorWidth"/><attr name="cursorHeight"/><attr name="cursorMarginLeft"/><attr name="cursorMarginTop"/><attr name="cursorMarginRight"/><attr name="cursorMarginBottom"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">UTV</string>
+    <string name="hello_world">Hello world!</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

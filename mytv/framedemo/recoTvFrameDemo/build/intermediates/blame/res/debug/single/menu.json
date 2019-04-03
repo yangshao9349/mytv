@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\menu\\free.xml",
+        "source": "E:\\app\\framedemo\\recoTvFrame\\build\\intermediates\\bundles\\default\\res\\menu\\free.xml"
+    },
+    {
+        "merged": "E:\\code\\android\\djtv\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\menu\\free.xml",
+        "source": "E:\\code\\android\\djtv\\framedemo\\recoTvFrame\\build\\intermediates\\bundles\\default\\res\\menu\\free.xml"
+    },
+    {
+        "merged": "E:\\code\\android\\djtv\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\code\\android\\djtv\\framedemo\\recoTvFrameDemo\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\app\\framedemo\\recoTvFrameDemo\\src\\main\\res\\menu\\main.xml"
+    }
+]

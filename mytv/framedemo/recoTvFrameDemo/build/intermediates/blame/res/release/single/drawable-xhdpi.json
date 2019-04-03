@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\logo.png",
+        "source": "E:\\app\\framedemo\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\btn_return_bar_normal.png",
+        "source": "E:\\app\\framedemo\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\btn_return_bar_normal.png"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\harf_bg.png",
+        "source": "E:\\app\\framedemo\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\harf_bg.png"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\btn_return_bar_hover.png",
+        "source": "E:\\app\\framedemo\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\btn_return_bar_hover.png"
+    }
+]

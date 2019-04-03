@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\avd\\.android\\build-cache\\4460f64a69e6cd12de96a7cffe78ef26728cc33e\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\avd\\.android\\build-cache\\4460f64a69e6cd12de96a7cffe78ef26728cc33e\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "D:\\avd\\.android\\build-cache\\4460f64a69e6cd12de96a7cffe78ef26728cc33e\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "D:\\avd\\.android\\build-cache\\4460f64a69e6cd12de96a7cffe78ef26728cc33e\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\avd\\.android\\build-cache\\4460f64a69e6cd12de96a7cffe78ef26728cc33e\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\avd\\.android\\build-cache\\4460f64a69e6cd12de96a7cffe78ef26728cc33e\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\avd\\.android\\build-cache\\4460f64a69e6cd12de96a7cffe78ef26728cc33e\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "D:\\avd\\.android\\build-cache\\4460f64a69e6cd12de96a7cffe78ef26728cc33e\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "D:\\avd\\.android\\build-cache\\4460f64a69e6cd12de96a7cffe78ef26728cc33e\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\avd\\.android\\build-cache\\4460f64a69e6cd12de96a7cffe78ef26728cc33e\\output\\res\\anim\\abc_slide_out_top.xml"
+    }
+]

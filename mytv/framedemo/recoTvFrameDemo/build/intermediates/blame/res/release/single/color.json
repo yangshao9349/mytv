@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
+        "source": "D:\\avd\\.android\\build-cache\\4460f64a69e6cd12de96a7cffe78ef26728cc33e\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
+        "source": "D:\\avd\\.android\\build-cache\\4460f64a69e6cd12de96a7cffe78ef26728cc33e\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_light.xml",
+        "source": "D:\\avd\\.android\\build-cache\\4460f64a69e6cd12de96a7cffe78ef26728cc33e\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_dark.xml",
+        "source": "D:\\avd\\.android\\build-cache\\4460f64a69e6cd12de96a7cffe78ef26728cc33e\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "D:\\avd\\.android\\build-cache\\4460f64a69e6cd12de96a7cffe78ef26728cc33e\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "D:\\avd\\.android\\build-cache\\4460f64a69e6cd12de96a7cffe78ef26728cc33e\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
+        "source": "D:\\avd\\.android\\build-cache\\4460f64a69e6cd12de96a7cffe78ef26728cc33e\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
+        "source": "D:\\avd\\.android\\build-cache\\4460f64a69e6cd12de96a7cffe78ef26728cc33e\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "D:\\avd\\.android\\build-cache\\4460f64a69e6cd12de96a7cffe78ef26728cc33e\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    }
+]

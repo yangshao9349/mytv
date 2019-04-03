@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\btn_switch.png",
+        "source": "E:\\app\\framedemo\\recoTvFrameDemo\\src\\main\\res\\mipmap-xhdpi\\btn_switch.png"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\battery_45.png",
+        "source": "E:\\app\\framedemo\\recoTvFrameDemo\\src\\main\\res\\mipmap-xhdpi\\battery_45.png"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\btn_nav_back_n.png",
+        "source": "E:\\app\\framedemo\\recoTvFrameDemo\\src\\main\\res\\mipmap-xhdpi\\btn_nav_back_n.png"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\battery_30.png",
+        "source": "E:\\app\\framedemo\\recoTvFrameDemo\\src\\main\\res\\mipmap-xhdpi\\battery_30.png"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\battery.png",
+        "source": "E:\\app\\framedemo\\recoTvFrameDemo\\src\\main\\res\\mipmap-xhdpi\\battery.png"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\btn_close.png",
+        "source": "E:\\app\\framedemo\\recoTvFrameDemo\\src\\main\\res\\mipmap-xhdpi\\btn_close.png"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\battery_75.png",
+        "source": "E:\\app\\framedemo\\recoTvFrameDemo\\src\\main\\res\\mipmap-xhdpi\\battery_75.png"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\battery_90.png",
+        "source": "E:\\app\\framedemo\\recoTvFrameDemo\\src\\main\\res\\mipmap-xhdpi\\battery_90.png"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\battery_60.png",
+        "source": "E:\\app\\framedemo\\recoTvFrameDemo\\src\\main\\res\\mipmap-xhdpi\\battery_60.png"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "E:\\app\\framedemo\\recoTvFrameDemo\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\battery_15.png",
+        "source": "E:\\app\\framedemo\\recoTvFrameDemo\\src\\main\\res\\mipmap-xhdpi\\battery_15.png"
+    },
+    {
+        "merged": "E:\\app\\framedemo\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\videobg.png",
+        "source": "E:\\app\\framedemo\\recoTvFrameDemo\\src\\main\\res\\mipmap-xhdpi\\videobg.png"
+    }
+]

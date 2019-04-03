@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\code\android\djtv\framedemo\recoTvFrameDemo\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="128ce4ceb647425acea04b65ee259fe015a4f78a">
+        <dex dex="E:\code\android\djtv\framedemo\recoTvFrameDemo\build\intermediates\pre-dexed\debug\BaiduLBS_Android_97897b43b6dcf752b28c0b68c9eb3fb5c9abe159.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\android\djtv\framedemo\recoTvFrame\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00f4cc220db3edfe76af54745415f701126986d8">
+        <dex dex="E:\code\android\djtv\framedemo\recoTvFrameDemo\build\intermediates\pre-dexed\debug\classes_2a5059a7b78d254b0119a9f94c95f217e9159800.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.socket\socket.io-client\0.7.0\ce278c97bc9f74c7945d647f6d441d6013163362\socket.io-client-0.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce278c97bc9f74c7945d647f6d441d6013163362">
+        <dex dex="E:\code\android\djtv\framedemo\recoTvFrameDemo\build\intermediates\pre-dexed\debug\socket.io-client-0.7.0_f9810be9cb4ce46ec2234f11cfcd638cf362bf93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="E:\code\android\djtv\framedemo\recoTvFrameDemo\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_bcc6497059cef6b4f283df59dfa52cf33b707fc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\cbaf888c74474deb69fbb04e5b4c29f95c08b8d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="E:\code\android\djtv\framedemo\recoTvFrameDemo\build\intermediates\pre-dexed\debug\classes_04d5a92a69c3fa0070e3009b08d769cb0155cb70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.0.1\bd9b51a0188fc8f14bf840a0d326755545206116\okhttp-ws-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd9b51a0188fc8f14bf840a0d326755545206116">
+        <dex dex="E:\code\android\djtv\framedemo\recoTvFrameDemo\build\intermediates\pre-dexed\debug\okhttp-ws-3.0.1_83d29f887cf5d86bb188227c93bf3f607e15ff47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.0.1\b34c1f2d993044656e87f88970b6818e99e886ba\okhttp-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="E:\code\android\djtv\framedemo\recoTvFrameDemo\build\intermediates\pre-dexed\debug\okhttp-3.0.1_6c4a13f1ae29fbf79d4daae798a189678a938639.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\android\djtv\framedemo\recoTvFrameDemo\libs\universal-image-loader-1.9.2_sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e33324b770223932d467e4ec39639b0c15f3b94e">
+        <dex dex="E:\code\android\djtv\framedemo\recoTvFrameDemo\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2_sources_e0484d3237945590b559bc700afd147627831c92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\code\android\djtv\framedemo\recoTvFrameDemo\build\intermediates\pre-dexed\debug\okio-1.6.0_c410569bd3ae660f2a7eceb3af69efc833b46b70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\27f4eeb6957969f76837591fd0d40ee3aec91786\output\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="E:\code\android\djtv\framedemo\recoTvFrameDemo\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_7df68b4988a7739cb69026fd1df402b218b3f8f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.socket\engine.io-client\0.7.0\c1b1d30e2d2231b2eae1438a44943a409b976dac\engine.io-client-0.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b1d30e2d2231b2eae1438a44943a409b976dac">
+        <dex dex="E:\code\android\djtv\framedemo\recoTvFrameDemo\build\intermediates\pre-dexed\debug\engine.io-client-0.7.0_6265feb40c883019b54a2130ee359eb930dd59f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\094a2373946b37b380daab4de2182852425dade7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="E:\code\android\djtv\framedemo\recoTvFrameDemo\build\intermediates\pre-dexed\debug\classes_5cae526772ed3ed7ae8424d531d38f8d2aee5bb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\3862a1fc4007a3d42377d61dbeab3f116e063049\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="E:\code\android\djtv\framedemo\recoTvFrameDemo\build\intermediates\pre-dexed\debug\classes_b473383873f6db4ff71d1b9942e2f6ba44a2ec4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\27f4eeb6957969f76837591fd0d40ee3aec91786\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="E:\code\android\djtv\framedemo\recoTvFrameDemo\build\intermediates\pre-dexed\debug\classes_73fc3a4845dc3052bfd153a5723175c5db01d93c.jar" />
+    </item>
+
+</items>
